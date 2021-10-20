@@ -6389,10 +6389,10 @@ react-router@4.2.0, react-router@^4.2.0:
     prop-types "^15.5.4"
     warning "^3.0.0"
 
-react-styled-flexboxgrid@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-styled-flexboxgrid/-/react-styled-flexboxgrid-2.2.0.tgz#2b1ea9dba28da8c493c0f576b4d5b2dc8a07a30f"
-  integrity sha512-y4ABZInmKZjeh9Ec7lsJTWMXETPsltXP+2kJhNy2PzMDVwGP5QxJVDXsK5Bw04aA1G5F+n2OsmZNzR9vwgUngw==
+react-styled-flexboxgrid@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/react-styled-flexboxgrid/-/react-styled-flexboxgrid-2.6.0.tgz#a4e498da928f100c65a2b1f9839cc2959b0f2400"
+  integrity sha512-JBzcvKP62M1TG5O84V4cXjbs0W+X4oz6JncLK8nQYdnEDHTWve9whz2Rb43EcUm7XvMVQtrmY5ThEuTdz588Mw==
   dependencies:
     lodash.isinteger "^4.0.4"
 
